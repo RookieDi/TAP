@@ -4,6 +4,6 @@
 
 - **Name:** Vasile Meghesan
 - **Group:** 2
-- **Academic Year:** II
+- **Year:** II
 
 
