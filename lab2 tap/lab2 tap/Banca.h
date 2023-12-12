@@ -103,22 +103,22 @@ public:
     float getSumaTotala() override {
         float sumaTotala = 0.0f;
         for (const auto& client : clienti) {
-            sumaTotala += client.getNrConturi(); // Aduna numarul de conturi din fiecare client
+            sumaTotala += client.getNrConturi(); 
         }
         return sumaTotala;
     }
 
     float getDobanda() override {
-        // Calcul simplu: se returneaza 2% din suma totala a bancii ca dobanda
+        
         return getSumaTotala() * 0.02f;
     }
 
     void depunere(float suma) override {
-        // Implementare simpla: adauga suma in rezervele bancii
+       
     }
 
     void extragere(float suma) override {
-        // Implementare simpla: scade suma din rezervele bancii
+      
     }
 
 private:
