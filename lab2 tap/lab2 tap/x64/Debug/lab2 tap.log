@@ -1,0 +1,78 @@
+﻿  Banca.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xmemory(723,76): error C2259: 'ContBancar': cannot instantiate abstract class
+  (compiling source file 'Banca.cpp')
+  A:\tap\lab2 tap\lab2 tap\Banca.h(62,7):
+  see declaration of 'ContBancar'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xmemory(723,76):
+  due to following members:
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xmemory(723,76):
+  'float Operatiuni::getSumaTotala(void)': is abstract
+  A:\tap\lab2 tap\lab2 tap\Banca.h(11,19):
+  see declaration of 'Operatiuni::getSumaTotala'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xmemory(723,76):
+  'float Operatiuni::getDobanda(void)': is abstract
+  A:\tap\lab2 tap\lab2 tap\Banca.h(12,19):
+  see declaration of 'Operatiuni::getDobanda'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xmemory(723,76):
+  'void Operatiuni::depunere(float)': is abstract
+  A:\tap\lab2 tap\lab2 tap\Banca.h(13,18):
+  see declaration of 'Operatiuni::depunere'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xmemory(723,76):
+  'void Operatiuni::extragere(float)': is abstract
+  A:\tap\lab2 tap\lab2 tap\Banca.h(14,18):
+  see declaration of 'Operatiuni::extragere'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xmemory(723,76):
+  the template instantiation context (the oldest one first) is
+  	A:\tap\lab2 tap\lab2 tap\Banca.h(41,29):
+  	see reference to class template instantiation 'std::vector<ContBancar,std::allocator<ContBancar>>' being compiled
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\vector(1480,26):
+  	while compiling class template member function 'std::vector<ContBancar,std::allocator<ContBancar>> &std::vector<ContBancar,std::allocator<ContBancar>>::operator =(const std::vector<ContBancar,std::allocator<ContBancar>> &)'
+  		A:\tap\lab2 tap\lab2 tap\Banca.cpp(43,19):
+  		see the first reference to 'std::vector<ContBancar,std::allocator<ContBancar>>::operator =' in 'Client::setConturi'
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\vector(1496,9):
+  	see reference to function template instantiation 'void std::vector<ContBancar,std::allocator<ContBancar>>::_Assign_counted_range<ContBancar*>(_Iter,const unsigned __int64)' being compiled
+          with
+          [
+              _Iter=ContBancar *
+          ]
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\vector(1399,27):
+  	see reference to function template instantiation 'ContBancar *std::_Uninitialized_copy_n<ContBancar*,std::allocator<ContBancar>>(_InIt,size_t,ContBancar *,_Alloc &)' being compiled
+          with
+          [
+              _InIt=ContBancar *,
+              _Alloc=std::allocator<ContBancar>
+          ]
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xmemory(1887,17):
+  	see reference to function template instantiation 'void std::_Uninitialized_backout_al<std::allocator<ContBancar>>::_Emplace_back<ContBancar&>(ContBancar &)' being compiled
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xmemory(1801,35):
+  	see reference to function template instantiation 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,ContBancar&>(_Alloc &,_Objty *const ,ContBancar &)' being compiled
+          with
+          [
+              _Alloc=std::allocator<ContBancar>,
+              _Ty=ContBancar,
+              _Objty=ContBancar
+          ]
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xmemory(723,82): error C2259: 'ContBancar': cannot instantiate abstract class
+  (compiling source file 'Banca.cpp')
+  A:\tap\lab2 tap\lab2 tap\Banca.h(62,7):
+  see declaration of 'ContBancar'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xmemory(723,82):
+  due to following members:
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xmemory(723,82):
+  'float Operatiuni::getSumaTotala(void)': is abstract
+  A:\tap\lab2 tap\lab2 tap\Banca.h(11,19):
+  see declaration of 'Operatiuni::getSumaTotala'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xmemory(723,82):
+  'float Operatiuni::getDobanda(void)': is abstract
+  A:\tap\lab2 tap\lab2 tap\Banca.h(12,19):
+  see declaration of 'Operatiuni::getDobanda'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xmemory(723,82):
+  'void Operatiuni::depunere(float)': is abstract
+  A:\tap\lab2 tap\lab2 tap\Banca.h(13,18):
+  see declaration of 'Operatiuni::depunere'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xmemory(723,82):
+  'void Operatiuni::extragere(float)': is abstract
+  A:\tap\lab2 tap\lab2 tap\Banca.h(14,18):
+  see declaration of 'Operatiuni::extragere'
+  

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<discipline>
+	<disciplina nume="Diac" cadrue="Cadrul">
+		<student>
+			<nume>Alexandra</nume>
+			<nota>12</nota>
+		</student>
+	</disciplina>
+	<disciplina nume="Diac" cadrue="Cadrul">
+		<student>
+			<nume>Alexandra</nume>
+			<nota>12</nota>
+		</student>
+	</disciplina>
+	<disciplina nume="Aleluia" cadrue="Cadrul">
+		<student>
+			<nume>Mihaela</nume>
+			<nota>2</nota>
+		</student>
+	</disciplina>
+</discipline>

@@ -1,0 +1,10 @@
+A:\tap\ex1 test\ex1 test\bin\Debug\ex1 test.exe.config
+A:\tap\ex1 test\ex1 test\bin\Debug\ex1 test.exe
+A:\tap\ex1 test\ex1 test\bin\Debug\ex1 test.pdb
+A:\tap\ex1 test\ex1 test\obj\Debug\ex1 test.csproj.AssemblyReference.cache
+A:\tap\ex1 test\ex1 test\obj\Debug\ex1_test.Form1.resources
+A:\tap\ex1 test\ex1 test\obj\Debug\ex1_test.Properties.Resources.resources
+A:\tap\ex1 test\ex1 test\obj\Debug\ex1 test.csproj.GenerateResource.cache
+A:\tap\ex1 test\ex1 test\obj\Debug\ex1 test.csproj.CoreCompileInputs.cache
+A:\tap\ex1 test\ex1 test\obj\Debug\ex1 test.exe
+A:\tap\ex1 test\ex1 test\obj\Debug\ex1 test.pdb

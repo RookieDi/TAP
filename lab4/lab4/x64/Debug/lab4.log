@@ -1,0 +1,115 @@
+﻿  functie.cpp
+A:\tap\lab4\lab4\Fractie.h(38,14): error C2039: 'ostream': is not a member of 'std'
+  (compiling source file 'functie.cpp')
+  A:\tap\lab4\lab4\predefined C++ types (compiler internal)(348,11):
+  see declaration of 'std'
+  
+A:\tap\lab4\lab4\Fractie.h(38,21): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'functie.cpp')
+  
+A:\tap\lab4\lab4\Fractie.h(38,14): error C2433: 'ostream': 'friend' not permitted on data declarations
+  (compiling source file 'functie.cpp')
+  
+A:\tap\lab4\lab4\Fractie.h(38,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'functie.cpp')
+  
+A:\tap\lab4\lab4\Fractie.h(38,39): error C2039: 'ostream': is not a member of 'std'
+  (compiling source file 'functie.cpp')
+  A:\tap\lab4\lab4\predefined C++ types (compiler internal)(348,11):
+  see declaration of 'std'
+  
+A:\tap\lab4\lab4\Fractie.h(38,69): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'functie.cpp')
+  
+A:\tap\lab4\lab4\Fractie.h(41,6): error C2039: 'ostream': is not a member of 'std'
+  (compiling source file 'functie.cpp')
+  A:\tap\lab4\lab4\predefined C++ types (compiler internal)(348,11):
+  see declaration of 'std'
+  
+A:\tap\lab4\lab4\Fractie.h(41,13): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'functie.cpp')
+  
+A:\tap\lab4\lab4\Fractie.h(41,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'functie.cpp')
+  
+A:\tap\lab4\lab4\Fractie.h(41,6): error C2086: 'int ostream': redefinition
+  (compiling source file 'functie.cpp')
+  A:\tap\lab4\lab4\Fractie.h(38,14):
+  see declaration of 'ostream'
+  
+A:\tap\lab4\lab4\Fractie.h(41,31): error C2039: 'ostream': is not a member of 'std'
+  (compiling source file 'functie.cpp')
+  A:\tap\lab4\lab4\predefined C++ types (compiler internal)(348,11):
+  see declaration of 'std'
+  
+A:\tap\lab4\lab4\Fractie.h(41,15): error C2473: 'operator <<': looks like a function definition, but there is no parameter list.
+  (compiling source file 'functie.cpp')
+  
+A:\tap\lab4\lab4\Fractie.h(41,38): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'functie.cpp')
+  
+A:\tap\lab4\lab4\Fractie.h(41,40): error C2065: 'os': undeclared identifier
+  (compiling source file 'functie.cpp')
+  
+A:\tap\lab4\lab4\Fractie.h(41,44): error C2059: syntax error: 'const'
+  (compiling source file 'functie.cpp')
+  
+A:\tap\lab4\lab4\functie.cpp(20,42): error C1903: unable to recover from previous error(s); stopping compilation
+  main.cpp
+A:\tap\lab4\lab4\Fractie.h(38,14): error C2039: 'ostream': is not a member of 'std'
+  (compiling source file 'main.cpp')
+  A:\tap\lab4\lab4\predefined C++ types (compiler internal)(348,11):
+  see declaration of 'std'
+  
+A:\tap\lab4\lab4\Fractie.h(38,21): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'main.cpp')
+  
+A:\tap\lab4\lab4\Fractie.h(38,14): error C2433: 'ostream': 'friend' not permitted on data declarations
+  (compiling source file 'main.cpp')
+  
+A:\tap\lab4\lab4\Fractie.h(38,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+A:\tap\lab4\lab4\Fractie.h(38,39): error C2039: 'ostream': is not a member of 'std'
+  (compiling source file 'main.cpp')
+  A:\tap\lab4\lab4\predefined C++ types (compiler internal)(348,11):
+  see declaration of 'std'
+  
+A:\tap\lab4\lab4\Fractie.h(38,69): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'main.cpp')
+  
+A:\tap\lab4\lab4\Fractie.h(41,6): error C2039: 'ostream': is not a member of 'std'
+  (compiling source file 'main.cpp')
+  A:\tap\lab4\lab4\predefined C++ types (compiler internal)(348,11):
+  see declaration of 'std'
+  
+A:\tap\lab4\lab4\Fractie.h(41,13): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'main.cpp')
+  
+A:\tap\lab4\lab4\Fractie.h(41,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+A:\tap\lab4\lab4\Fractie.h(41,6): error C2086: 'int ostream': redefinition
+  (compiling source file 'main.cpp')
+  A:\tap\lab4\lab4\Fractie.h(38,14):
+  see declaration of 'ostream'
+  
+A:\tap\lab4\lab4\Fractie.h(41,31): error C2039: 'ostream': is not a member of 'std'
+  (compiling source file 'main.cpp')
+  A:\tap\lab4\lab4\predefined C++ types (compiler internal)(348,11):
+  see declaration of 'std'
+  
+A:\tap\lab4\lab4\Fractie.h(41,15): error C2473: 'operator <<': looks like a function definition, but there is no parameter list.
+  (compiling source file 'main.cpp')
+  
+A:\tap\lab4\lab4\Fractie.h(41,38): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'main.cpp')
+  
+A:\tap\lab4\lab4\Fractie.h(41,40): error C2065: 'os': undeclared identifier
+  (compiling source file 'main.cpp')
+  
+A:\tap\lab4\lab4\Fractie.h(41,44): error C2059: syntax error: 'const'
+  (compiling source file 'main.cpp')
+  
+A:\tap\lab4\lab4\main.cpp(6,33): error C1903: unable to recover from previous error(s); stopping compilation
+  Generating Code...

@@ -1,0 +1,9 @@
+﻿  stiva.cpp
+stiva.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl Array_Stack::push(int)" (?push@Array_Stack@@UEAAXH@Z)
+stiva.obj : error LNK2001: unresolved external symbol "public: virtual int __cdecl Array_Stack::pop(void)" (?pop@Array_Stack@@UEAAHXZ)
+stiva.obj : error LNK2001: unresolved external symbol "public: virtual int __cdecl Array_Stack::peek(void)" (?peek@Array_Stack@@UEAAHXZ)
+stiva.obj : error LNK2001: unresolved external symbol "public: virtual bool __cdecl Array_Stack::isempty(void)" (?isempty@Array_Stack@@UEAA_NXZ)
+stiva.obj : error LNK2001: unresolved external symbol "public: virtual bool __cdecl Array_Stack::isfull(void)" (?isfull@Array_Stack@@UEAA_NXZ)
+stiva.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl Array_Stack::print(void)" (?print@Array_Stack@@UEAAXXZ)
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+A:\tap\lab1 tap\x64\Debug\lab1 tap.exe : fatal error LNK1120: 7 unresolved externals
