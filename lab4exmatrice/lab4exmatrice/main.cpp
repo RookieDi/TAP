@@ -2,7 +2,7 @@
 #include <iostream>
 
 int main() {
-    // Exemplu de utilizare a clasei Matrice
+
     Matrice A(2, 2);
     A[0][0] = 1;
     A[0][1] = 2;
