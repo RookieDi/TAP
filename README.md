@@ -1,4 +1,9 @@
- TAP
-Meghesan Vasile Grupa 2 AN II Specializare Informatica
+# TAP
+
+## Student Informatica
+
+- **Name:** Vasile Meghesan
+- **Group:** 2
+- **Academic Year:** II
 
 
