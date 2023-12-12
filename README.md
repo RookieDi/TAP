@@ -1,4 +1,4 @@
 # TAP
-#Meghesan Vasile Grupa 2
-#Specializare Informatica
-##AN II
+#Meghesan Vasile Grupa 2 AN II Specializare Informatica
+
+
