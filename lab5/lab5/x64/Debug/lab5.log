@@ -1,0 +1,12 @@
+﻿  Angajat.cpp
+  main.cpp
+  Manager.cpp
+  Generating Code...
+A:\tap\lab5\lab5\Manager.cpp(4,10): error C2084: function 'Manager::Manager(double,int)' already has a body
+  A:\tap\lab5\lab5\Manager.h(11,2):
+  see previous definition of '{ctor}'
+  
+A:\tap\lab5\lab5\Manager.cpp(7,10): error C2084: function 'Manager::Manager(const Angajat &)' already has a body
+  A:\tap\lab5\lab5\Manager.h(14,2):
+  see previous definition of '{ctor}'
+  
