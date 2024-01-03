@@ -1,0 +1,16 @@
+A:\tap\lab5 ex2\lab5 ex2\bin\Debug\lab5 ex2.exe.config
+A:\tap\lab5 ex2\lab5 ex2\bin\Debug\lab5 ex2.exe
+A:\tap\lab5 ex2\lab5 ex2\bin\Debug\lab5 ex2.pdb
+A:\tap\lab5 ex2\lab5 ex2\bin\Debug\EntityFramework.dll
+A:\tap\lab5 ex2\lab5 ex2\bin\Debug\EntityFramework.SqlServer.dll
+A:\tap\lab5 ex2\lab5 ex2\bin\Debug\EntityFramework.xml
+A:\tap\lab5 ex2\lab5 ex2\bin\Debug\EntityFramework.SqlServer.xml
+A:\tap\lab5 ex2\lab5 ex2\obj\Debug\lab5 ex2.csproj.AssemblyReference.cache
+A:\tap\lab5 ex2\lab5 ex2\obj\Debug\lab5_ex2.AddProduct.resources
+A:\tap\lab5 ex2\lab5 ex2\obj\Debug\lab5_ex2.Form1.resources
+A:\tap\lab5 ex2\lab5 ex2\obj\Debug\lab5_ex2.Properties.Resources.resources
+A:\tap\lab5 ex2\lab5 ex2\obj\Debug\lab5 ex2.csproj.GenerateResource.cache
+A:\tap\lab5 ex2\lab5 ex2\obj\Debug\lab5 ex2.csproj.CoreCompileInputs.cache
+A:\tap\lab5 ex2\lab5 ex2\obj\Debug\lab5 ex2.csproj.CopyComplete
+A:\tap\lab5 ex2\lab5 ex2\obj\Debug\lab5 ex2.exe
+A:\tap\lab5 ex2\lab5 ex2\obj\Debug\lab5 ex2.pdb
